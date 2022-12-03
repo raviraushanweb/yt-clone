@@ -18,14 +18,10 @@ npm start
 
 ## Screenshots
 
-Homepage
-<img src="./docs/YT%20Clone%204.png">
+![Homepage](./docs/YT%20Clone%204.png)
 
-Category Page
-<img src="./docs/YT%20Clone%203.png">
+![Category Page](./docs/YT%20Clone%203.png)
 
-Channel Profile
-<img src="./docs/YT%20Clone%202.png">
+![Channel Profile](./docs/YT%20Clone%202.png)
 
-Video Player
-<img src="./docs/YT%20Clone%201.png">
+![Video Player](./docs/YT%20Clone%201.png)
